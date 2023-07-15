@@ -1,0 +1,21 @@
+
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table th, .table td {
+  border: 1px solid #dddddd;
+  padding: 8px;
+}
+
+.table th {
+  background-color: #ebb147;
+  color: #333;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
